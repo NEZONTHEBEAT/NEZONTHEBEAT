@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @NEZONTHEBEAT
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m Kalyan Baraik
+- 👀 I’m interested in Html, Css, JavaScript, C, Python, Flutter
+- 🌱 I’m currently learning React, Next, Nodejs, MERN STACK
+- 💞️ I’m looking to collaborate on non-profit interesting projects
+- 📫 How to reach me Email: Neelspunkryderz71@gmail.com
+- 😄 Pronouns: send the voice msg 🤭
+- ⚡ Fun fact: “Multidisciplinary Mastermind”
 
-<!---
-NEZONTHEBEAT/NEZONTHEBEAT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
