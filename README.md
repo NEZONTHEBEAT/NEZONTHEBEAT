@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi! 🧑🏻‍💻 I'm **Kalyan Baraik** 
+<h1>Hi! 🧑🏻‍💻 I'm <strong>Kalyan Baraik</strong></h1>
 
 
 <img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&weight=400&size=28&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=950&lines=Full+Stack+Web+Developer;PHP+Developer;React+Developer;Cloud+Computing+Learner;Open+Source+Enthusiast" />
