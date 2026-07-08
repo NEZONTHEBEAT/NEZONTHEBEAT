@@ -1,24 +1,10 @@
 <div align="center">
 
-# 👋 Hi, I'm Kalyan Baraik
-
-### 💻 Full Stack Web Developer
+# Hi! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Halo.png" alt="Smiling Face with Halo" width="25" height="25" /> I'm **Kalyan Baraik** — a **Full Stack Web Developer** passionate about building scalable web applications, modern user interfaces, and secure backend systems. I enjoy transforming ideas into real-world digital products while continuously learning Cloud Computing, DevOps, AI, and modern software engineering practices.
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=900&size=30&duration=3500&pause=1200&color=F8F8F8&center=true&vCenter=true&width=950&lines=Full+Stack+Web+Developer;PHP+%7C+React+%7C+Node.js;Cloud+Computing+Learner;Always+Building+Something+Awesome" />
 
 </div>
-
----
-
-# 🚀 About Me
-
-- 🎓 BCA Undergraduate
-- 💻 Passionate Full Stack Web Developer
-- ☁️ Currently learning Cloud Computing & DevOps
-- 🤖 Interested in AI, Automation & Backend Development
-- 🌱 Exploring React, Next.js, Docker & AWS
-- 🎯 Goal: Become a Software Engineer & Cloud Engineer
-- ⚡ Fun Fact: I love coding, music production & building useful applications.
 
 ---
 
