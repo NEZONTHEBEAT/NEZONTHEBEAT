@@ -1,9 +1,9 @@
 <div align="center">
 
-# Hi! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Halo.png" alt="Smiling Face with Halo" width="25" height="25" /> I'm **Kalyan Baraik** 
+# Hi! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Waving%20Hand.png" width="35" /> I'm **Kalyan Baraik** 
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=30&duration=3500&pause=1200&color=8A2BE2&center=true&vCenter=true&width=950&lines=Full+Stack+Web+Developer;PHP+Developer;React+Developer;Cloud+Computing+Learner;Open+Source+Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=30&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=950&lines=Full+Stack+Web+Developer;PHP+Developer;React+Developer;Cloud+Computing+Learner;Open+Source+Enthusiast" />
 </div>
 
 ---
