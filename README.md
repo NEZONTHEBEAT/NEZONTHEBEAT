@@ -4,7 +4,7 @@
 
 ### 💻 Full Stack Web Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=white&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;PHP+%7C+JavaScript+%7C+React+Developer;Cloud+Computing+Learner;Backend+Developer;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=white&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;PHP+%7C+JavaScript+%7C+React+Developer;Cloud+Computing+Learner" />
 
 <img src="https://komarev.com/ghpvc/?username=NEZONTHEBEAT&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
