@@ -1,6 +1,8 @@
 <div align="center">
 
-Hi! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Halo.png" alt="Smiling Face with Halo" width="25" height="25" /> I'm **Kalyan Baraik** 
+# Hi! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Halo.png" alt="Smiling Face with Halo" width="25" height="25" /> I'm **Kalyan Baraik** 
+
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=900&size=30&duration=3500&pause=1200&color=F8F8F8&center=true&vCenter=true&width=950&lines=Full+Stack+Web+Developer;PHP+%7C+React+%7C+Node.js;Cloud+Computing+Learner;Always+Building+Something+Awesome" />
 
