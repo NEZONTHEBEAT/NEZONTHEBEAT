@@ -4,7 +4,7 @@
 
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=900&size=30&duration=3500&pause=1200&color=F8F8F8&center=true&vCenter=true&width=950&lines=Full+Stack+Web+Developer;PHP+%7C+React+%7C+Node.js;Cloud+Computing+Learner;Always+Building+Something+Awesome" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=900&size=30&duration=3500&pause=1200&color=F8F8F8&center=true&vCenter=true&width=950&lines=Full+Stack+Web+Developer;PHP Developer+%7C+React Developer" />
 
 </div>
 
