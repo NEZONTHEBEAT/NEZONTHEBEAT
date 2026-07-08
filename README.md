@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Kalyan Baraik
 
-### 💻 Full Stack Web Developer | ☁️ Cloud Computing Learner | 🎓 BCA Undergraduate
+### 💻 Full Stack Web Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;PHP+%7C+JavaScript+%7C+React+Developer;Cloud+Computing+Learner;Backend+Developer;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=white&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;PHP+%7C+JavaScript+%7C+React+Developer;Cloud+Computing+Learner;Backend+Developer;Always+Learning+New+Technologies" />
 
 <img src="https://komarev.com/ghpvc/?username=NEZONTHEBEAT&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
@@ -67,56 +67,29 @@
 
 ### 📸 Photography Portfolio
 A modern photography portfolio featuring a masonry gallery, EXIF metadata, a Google Sheets contact form, WhatsApp integration, and responsive design.  
-🔗 **Repository:** https://github.com/NEZONTHEBEAT/Photography-Portfolio  
-🌐 **Live Demo:** Coming Soon
 
+[![🌐 Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=netlify&logoColor=white)](https://catchtheflash1999.netlify.app/)
 
 ---
 
 ### 📱 iPhone 17 Prebooking System
 A responsive iPhone pre-booking platform with dynamic product variants, Razorpay integration, admin dashboard, and secure order management.  
-🔗 **Repository:** https://github.com/NEZONTHEBEAT/iphone-17-prebooking-page  
-🌐 **Live Demo:** Coming Soon
+
+[![🌐 Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=netlify&logoColor=white)](https://iphone17-prebooking-backend-w0yh.onrender.com/)
 
 ---
 
 ### 🔐 Authentication System
 A secure authentication system with Login, Registration, Forgot Password, Email Verification, OTP authentication, and Session Management using PHP & MySQL.  
-🔗 **Repository:** https://github.com/NEZONTHEBEAT/Login-Registration-System-Frontend-UI  
-🌐 **Live Demo:** Coming Soon
+
+[![🌐 Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=netlify&logoColor=white)](Comming Soon)
 
 ---
 
 ### 🍽️ DineSync Cafeteria
 A smart cafeteria management platform with online food ordering, QR-based payments, table booking, menu management, and WhatsApp notifications.  
-🔗 **Repository:** https://github.com/NEZONTHEBEAT/dine-sync-cafeteria  
-🌐 **Live Demo:** https://dinesynccafeteria.netlify.app/
 
 [![🌐 Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=netlify&logoColor=white)](https://dinesynccafeteria.netlify.app/)
-
-[![📂 GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NEZONTHEBEAT/dine-sync-cafeteria)
-
----
-
-# 📈 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=NEZONTHEBEAT&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=NEZONTHEBEAT&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NEZONTHEBEAT&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-# 📊 Contribution Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=NEZONTHEBEAT&theme=tokyo-night)
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=NEZONTHEBEAT&theme=tokyonight&no-frame=true&row=1&column=7)
 
 ---
 
@@ -124,11 +97,11 @@ A smart cafeteria management platform with online food ordering, QR-based paymen
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/kalyan-baraik">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:neelspunkryderz71@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
@@ -141,15 +114,3 @@ A smart cafeteria management platform with online food ordering, QR-based paymen
 </a>
 
 </p>
-
----
-
-<div align="center">
-
-## 💬 Quote
-
-> **"Code • Learn • Build • Repeat 🚀"**
-
-⭐ **Thanks for visiting my profile! If you like my work, don't forget to star my repositories.**
-
-</div>
