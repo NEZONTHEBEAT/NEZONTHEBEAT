@@ -3,7 +3,7 @@
 # Hi! 🧑🏻‍💻 I'm **Kalyan Baraik** 
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=30&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=950&lines=Full+Stack+Web+Developer;PHP+Developer;React+Developer;Cloud+Computing+Learner;Open+Source+Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&weight=400&size=28&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=950&lines=Full+Stack+Web+Developer;PHP+Developer;React+Developer;Cloud+Computing+Learner;Open+Source+Enthusiast" />
 </div>
 
 
