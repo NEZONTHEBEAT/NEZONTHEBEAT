@@ -65,30 +65,36 @@
 
 # 📂 Featured Projects
 
-### 🛒 E-Commerce Website
-Full Stack Shopping Website with Authentication, Admin Panel, Product Management & Payment Gateway.
+### 📸 Photography Portfolio
+A modern photography portfolio featuring a masonry gallery, EXIF metadata, a Google Sheets contact form, WhatsApp integration, and responsive design.  
+🔗 **Repository:** https://github.com/NEZONTHEBEAT/Photography-Portfolio  
+🌐 **Live Demo:** Coming Soon
 
-### 🔐 Authentication System
-Secure Login, Registration, Email Verification & Forgot Password using PHP & MySQL.
-
-### 🌦 Weather App
-Real-Time Weather Application using API.
-
-### 🎵 Music Portfolio
-Portfolio Website for Music Production & Creative Work.
-
-### 🔑 Password Generator
-Generate Strong & Secure Passwords.
 
 ---
 
-# 📜 Certifications
+### 📱 iPhone 17 Prebooking System
+A responsive iPhone pre-booking platform with dynamic product variants, Razorpay integration, admin dashboard, and secure order management.  
+🔗 **Repository:** https://github.com/NEZONTHEBEAT/iphone-17-prebooking-page  
+🌐 **Live Demo:** Coming Soon
 
-- 🏅 IBM SPSS Statistics
-- 🏅 HP LIFE Agile Project Management
-- 🏅 Fortinet FCA
-- 🏅 Tata Cybersecurity
-- 🏅 Kafka & Zookeeper
+---
+
+### 🔐 Authentication System
+A secure authentication system with Login, Registration, Forgot Password, Email Verification, OTP authentication, and Session Management using PHP & MySQL.  
+🔗 **Repository:** https://github.com/NEZONTHEBEAT/Login-Registration-System-Frontend-UI  
+🌐 **Live Demo:** Coming Soon
+
+---
+
+### 🍽️ DineSync Cafeteria
+A smart cafeteria management platform with online food ordering, QR-based payments, table booking, menu management, and WhatsApp notifications.  
+🔗 **Repository:** https://github.com/NEZONTHEBEAT/dine-sync-cafeteria  
+🌐 **Live Demo:** https://dinesynccafeteria.netlify.app/
+
+[![🌐 Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=netlify&logoColor=white)](https://dinesynccafeteria.netlify.app/)
+
+[![📂 GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NEZONTHEBEAT/dine-sync-cafeteria)
 
 ---
 
@@ -111,18 +117,6 @@ Generate Strong & Secure Passwords.
 # 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=NEZONTHEBEAT&theme=tokyonight&no-frame=true&row=1&column=7)
-
----
-
-# 🎯 2026 Goals
-
-- ✅ Master React & Next.js
-- ✅ Learn Docker & Kubernetes
-- ✅ AWS Cloud Practitioner
-- ✅ Build 10+ Production Projects
-- ✅ Open Source Contributions
-- ✅ Crack Software Engineering Internship
-- ✅ Prepare for Government IT Jobs
 
 ---
 
