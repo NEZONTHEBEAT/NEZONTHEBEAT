@@ -10,9 +10,9 @@
 
 ---
 
-#Tech Stack
+# Tech Stack
 
-###Frontend
+### Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -23,7 +23,7 @@
 
 ---
 
-###Backend
+### Backend
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -32,14 +32,14 @@
 
 ---
 
-###Database
+### Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
-###Cloud & DevOps
+### Cloud & DevOps
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -49,30 +49,30 @@
 
 ---
 
-#Featured Projects
+# Featured Projects
 
-###Photography Portfolio
+### Photography Portfolio
 A modern photography portfolio featuring a masonry gallery, EXIF metadata, a Google Sheets contact form, WhatsApp integration, and responsive design.  
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=netlify&logoColor=white)](https://catchtheflash1999.netlify.app/)
 
 ---
 
-###iPhone 17 Prebooking System
+### iPhone 17 Prebooking System
 A responsive iPhone pre-booking platform with dynamic product variants, Razorpay integration, admin dashboard, and secure order management.  
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=netlify&logoColor=white)](https://iphone17-prebooking-backend-w0yh.onrender.com/)
 
 ---
 
-###Authentication System
+### Authentication System
 A secure authentication system with Login, Registration, Forgot Password, Email Verification, OTP authentication, and Session Management using PHP & MySQL.  
 
 ![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=netlify&logoColor=white)
 
 ---
 
-###DineSync Cafeteria
+### DineSync Cafeteria
 A smart cafeteria management platform with online food ordering, QR-based payments, table booking, menu management, and WhatsApp notifications.  
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=netlify&logoColor=white)](https://dinesynccafeteria.netlify.app/)
