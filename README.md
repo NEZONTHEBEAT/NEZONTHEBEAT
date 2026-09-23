@@ -68,7 +68,7 @@ A responsive iPhone pre-booking platform with dynamic product variants, Razorpay
 ### Shruti-ai
 Voice-native AI agent with real-time interruption and recovery
 
-![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=netlify&logoColor=white)](https://shruti-ai-2kit.onrender.com/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=netlify&logoColor=white)](https://shruti-ai-2kit.onrender.com/)
 
 ---
 
