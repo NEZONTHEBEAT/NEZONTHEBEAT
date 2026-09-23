@@ -65,10 +65,10 @@ A responsive iPhone pre-booking platform with dynamic product variants, Razorpay
 
 ---
 
-### Authentication System
-A secure authentication system with Login, Registration, Forgot Password, Email Verification, OTP authentication, and Session Management using PHP & MySQL.  
+### Shruti-ai
+Voice-native AI agent with real-time interruption and recovery
 
-![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=netlify&logoColor=white)
+![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=netlify&logoColor=white)](https://shruti-ai-2kit.onrender.com/)
 
 ---
 
@@ -79,7 +79,7 @@ A smart cafeteria management platform with online food ordering, QR-based paymen
 
 ---
 
-# 📫 Connect With Me
+# Connect With Me
 
 <p align="left">
 
